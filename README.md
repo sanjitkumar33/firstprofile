@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 We are team of Professional Programmers with expertise in Website, Mobile App and Desktop App Development. We have experts for almost all the modern Development tools and languages.
 
 
